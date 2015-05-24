@@ -1,0 +1,23 @@
+___awdiv: CODE, 30888 0 176
+__stringdata: SMALLCONST, 4125 0 29
+_Lcd_Chr: CODE, 29998 0 72
+_Lcd_Chr_CP: CODE, 31892 0 300
+_Delay1KTCYx: CODE, 29772 0 18
+___awmod: CODE, 30732 0 156
+_main: CODE, 32192 0 576
+_Lcd_Cmd: CODE, 31596 0 296
+_inverte_saida: CODE, 31064 0 262
+__initialization: CODE, 29932 0 56
+_CGRAM_SanUSB: CODE, 30624 0 108
+_le_eeprom: CODE, 29808 0 20
+___lwdiv: CODE, 30226 0 86
+_tempo_ms: CODE, 30070 0 72
+_clock_int_48MHz: CODE, 30142 0 84
+_interrupcao: CODE, 4104 0 26414
+_habilita_canal_AD: CODE, 29790 0 18
+___wmul: CODE, 29874 0 58
+_lcd_escreve: CODE, 30518 0 106
+_Delay_5us: CODE, 30312 0 102
+_lcd_ini: CODE, 31326 0 270
+_Delay_5500us: CODE, 29764 0 8
+Total: 29287
